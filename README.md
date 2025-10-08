@@ -1,5 +1,5 @@
 # Gram-Trend
-# Trend Analysis
+Trend Analysis
 # Introduction
 Instagram stands as one of the world’s most influential social media platforms, connecting millions of users across diverse interests and industries. Professionals leverage Instagram for brand promotion, portfolio building, blogging, and content creation. However, as Instagram continuously updates its algorithms and features to enhance user experience, these changes often impact post visibility and reach — making it challenging for creators to maintain consistent growth.
 
